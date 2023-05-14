@@ -1,7 +1,8 @@
 Thumbs.db*
 .DS_Store
 HELP.md
-.gradle
+.gradle/
+.idea/
 build
 
 
@@ -20,8 +21,7 @@ build
 *.iml
 *.ipr
 out/
-.gradle/
-.idea/
+
 
 ### NetBeans ###
 /nbproject/private/

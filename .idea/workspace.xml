@@ -59,7 +59,7 @@
       <recent name="E:\Idea\Selenium" />
     </key>
   </component>
-  <component name="RunManager" selected="Gradle.CardTest.positiveTest">
+  <component name="RunManager" selected="Gradle.CardTest">
     <configuration name="CardTest" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
       <ExternalSystemSettings>
         <option name="executionName" />
@@ -108,8 +108,8 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Gradle.CardTest.positiveTest" />
         <item itemvalue="Gradle.CardTest" />
+        <item itemvalue="Gradle.CardTest.positiveTest" />
       </list>
     </recent_temporary>
   </component>
